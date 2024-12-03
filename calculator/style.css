@@ -1,0 +1,9 @@
+.center{
+    text-align: center;
+    color: orange;
+}
+.container{
+    background-color: grey;
+    margin: auto;
+    max-width: 30vw;
+}

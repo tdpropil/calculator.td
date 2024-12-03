@@ -1,0 +1,19 @@
+body{
+height: 100%;
+width: 100%;
+ background-color: black;
+ color: antiquewhite;
+}
+.center{
+    text-align: center;
+    color: orange;
+}
+.container{
+    background-color: grey;
+    margin: auto;
+    max-width: 30vw;
+    
+}
+button{
+    padding: 20px;
+}
